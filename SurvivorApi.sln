@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivorApi", "SurvivorApi\SurvivorApi.csproj", "{A31F8128-336C-4587-BF80-44628D775767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31F8128-336C-4587-BF80-44628D775767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31F8128-336C-4587-BF80-44628D775767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31F8128-336C-4587-BF80-44628D775767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31F8128-336C-4587-BF80-44628D775767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCC19740-368B-45AF-BC8F-01FAED9CAD54}
+	EndGlobalSection
+EndGlobal
